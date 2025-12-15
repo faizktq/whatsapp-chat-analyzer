@@ -52,6 +52,11 @@ Follow these steps to set up the project on your local machine.
 ### Installation
 
 1.  **Clone the repository**
+    ```bash
+    git clone [https://github.com/faizktq/whatsapp-chat-analyzer.git](https://github.com/faizktq/whatsapp-chat-analyzer.git)
+    cd whatsapp-chat-analyzer
+    ```
+
 2.  **Install dependencies**
     ```bash
     pip install -r requirements.txt
