@@ -6,3 +6,4 @@ emoji>=2.2.0
 urlextract
 wordcloud
 nltk
+plotly
